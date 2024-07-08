@@ -5,6 +5,8 @@ This repository contains exercises and study drills I've completed working throu
 Book Website: learnpythonthehardway.org
 Author Website: zedshaw.com
 
+This YouTube channel has great guides for this book and others: youtube.com/@LearningPythonProgramming
+
 Disclaimer:
 The code in this repository is for educational purposes only. I do not claim any rights to the original exercises or content from the book. All rights to the original material belong to the author and publisher.
 This repository is meant as a personal reference tool. If you're also learning from this book, feel free to compare solutions, but please work through the exercises on your own first.
